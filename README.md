@@ -1,6 +1,6 @@
 # Huevos de Pascua shop 
 ### Sitio web de un emprendimiento de venta de huevos de Pascua hecho con Bootstrap 5.
-#### [Ver sitio web](https://emicastor-demos.netlify.app/fragmentos/navbar-simple/)
+#### [Ver sitio web](https://huevos-de-pascua.netlify.app/)
 
 - Sitio web (One page) utilizando HTML, CSS, Bootstrap 5 y JavaScript.
 - Compatible con todos los dispositivos móviles y con una interfaz de usuario bonita y agradable.
